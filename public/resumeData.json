@@ -1,0 +1,153 @@
+{
+  "main": {
+    "name":"Kingman Reed Douglass",
+    "occupation":"Aspiring Software Developer",
+    "description":"Charismatic and versatile, currently developing a new skill-set in coding and excited for the future (but the one without robots that murder).",
+    "image":"profilepic.png",
+    "bio":"From business owner to corporate sheep - who won awards and listened well - to an aspring software developer; the unknown doesnt scare me, it excites me.",
+    "contactmessage":"Feel free to reach out with any questions you may have, thank you.",
+    "email": "KingmanRDouglass@gmail.com",
+    "phone": "847-777-0064",
+    "address":{
+      "street":"233 Arnica Dr",
+      "city":"Watertown",
+      "state":"MN",
+      "zip": "55388"
+    },
+    "website": "http://www.kingmanreeddouglass.com",
+    "resumedownload":"https://drive.google.com/uc?export=download&id=1NQ75hC-zRuOaqtXEGpuDA6_sNAFBsA9a",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/kingman.douglass?ref=bookmarks",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/kingman-reed-douglass-0323b1123/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/pandaboots/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/KingmanDouglass",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Strength of Weird Skills",
+    "education":[
+      {
+        "school":"University of Denver",
+        "degree":"Bachelor of Science in Business Administration: Marketing Major",
+        "graduated":"June 2010",
+        "description":""
+      },
+      {
+        "school":"Prime Digital Academy",
+        "degree":"Full Stack Software Engineering Certificate",
+        "graduated":"June 2019",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Prime Digital Academy",
+        "title":"Software Development Student",
+        "years":"January 2019 - Current",
+        "description":"An immersive full-stack engineering program designed to provide foundational concepts, techniques and design-patterns that are a vital aspect to most all coding environments."
+      },
+      {
+        "company":"The TLC Companies",
+        "title":"Regional Sales Manager",
+        "years":"June 2016 - February 2019",
+        "description":"Awarded 2017 Rookie of the Year. Awarded 2017 Most Complete Quote Requests by the underwriting department. Held the most quote requests for a direct sales rep in 2017 & 2018."
+      },
+      {
+        "company":"Patina Painting & Decorating Inc",
+        "title":"Owner & Operator",
+        "years":"March 2012-June 2016",
+        "description":"Negotioted business buyout. Managed daily operations including marketing, account and production for numerous crews. Operated at a 60% profit margin. Increased revenue by an average of 15% yearly"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Running in Hallway With Oversize Backpack",
+        "level":"20%"
+      },
+      {
+        "name":"Movie Knowledge",
+        "level":"70%"
+      },
+      {
+        "name":"Diet Implementation",
+        "level":"30%"
+      },
+      {
+        "name":"Ability to Nap Through Loud Noises",
+        "level":"70%"
+      },
+      {
+        "name":"Born With Sixth Toe",
+        "level":"100%"
+      },
+      {
+        "name":"Double Jointed Thumb",
+        "level":"50%"
+      },
+      {
+        "name":"Doodling",
+        "level":"10%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Opie San Tatoo",
+        "category":"Consultation Based Web App For MSP Tattoo Artist",
+        "image":"Home.png",
+        "url":"https://github.com/KingmanDouglass"
+      },
+      {
+        "title":"Weekend Feedback Form",
+        "category":"Feedback Form Done With React Redux",
+        "image":"feedback.png",
+        "url":"https://github.com/KingmanDouglass"
+      },
+      {
+        "title":"GitHub Portfolio",
+        "category":"Post and Edit Third Party Display of GitHub Projects",
+        "image":"portfolio.png",
+        "url":"https://github.com/KingmanDouglass"
+      },
+      {
+        "title":"Koalla Holla",
+        "category":"Database Management For Koalla Rehab Center",
+        "image":"kollaHolla.png",
+        "url":"https://github.com/KingmanDouglass"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"One day the AIs are going to look back on us the same way we look at fossil skeletons on the plains of Africa. An upright ape living in dust with crude language and toolds, all set for extinction",
+        "user":"Nathan Bateman"
+      },
+      {
+        "text":"No, no, no, no. You gotta listen to the way people talk",
+        "user":"John Connor"
+      },
+      {
+        "text":"Life is not a malfunction",
+        "user":"Stephanie Speck"
+      }
+    ]
+  }
+}
