@@ -18,36 +18,54 @@ class About extends Component {
 
     return (
       <section id="about">
-      <div className="row">
-         <div className="three columns">
-            <img className="profile-pic"  src={profilepic} alt="Tim Baker Profile Pic" />
-         </div>
-         <div className="nine columns main-col">
-            <h2>About Me</h2>
-
-            <p>{bio}</p>
-            <div className="row">
-               <div className="columns contact-details">
-                  <h2>Contact Details</h2>
-                  <p className="address">
-						   <span>{name}</span><br />
-						   <span>{street}<br />
-						         {city} {state}, {zip}
-                   </span><br />
-						   <span>{phone}</span><br />
-                     <span>{email}</span>
-					   </p>
-               </div>
-               <div className="columns download">
+ 
+      <div className="contact-info">
+                     233 Arnica Dr, Watertown, MN 55388
+               <br/>
+                     (847) 777-9964
+                  <br/>
+                     KingmanRDouglass@gmail.com
+                     <br/>
+      </div>
+            <div className="row download">
                   <p>
                      <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
                   </p>
-               </div>
             </div>
-         </div>
-      </div>
 
    </section>
+
+/* <section id="about">
+<div className="row">
+   <div className="three columns">
+      <img className="profile-pic"  src={profilepic} alt="Kingman and Connor" />
+   </div>
+   <div className="nine columns main-col">
+      <h2>Journey Snapshot</h2>
+
+      <p>{bio}</p>
+      <div className="row">
+         <div className="columns contact-details">
+            <h2>Contact</h2>
+            <p className="address">
+               <span>{name}</span><br />
+               <span>{street}<br />
+                     {city} {state}, {zip}
+             </span><br />
+               <span>{phone}</span><br />
+               <span>{email}</span>
+            </p>
+         </div>
+         <div className="columns download">
+            <p>
+               <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
+            </p>
+         </div>
+      </div>
+   </div>
+</div>
+
+</section> */
     );
   }
 }

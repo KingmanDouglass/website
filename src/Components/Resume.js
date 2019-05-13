@@ -27,6 +27,47 @@ class Resume extends Component {
 
       <div className="row education">
          <div className="three columns header-col">
+            <h1><span>Profile</span></h1>
+         </div>
+
+         <div className="nine columns main-col">
+            <div className="row item">
+               <div className="twelve columns">
+                 <ul>
+                   <li>
+                   <strong>Consistently</strong> strives to acquire new skills and information.
+                   </li>
+                   <li>
+                   <strong>Expansive leadership skills</strong> through management, motivation and set a precedent for strong work ethic.
+                   </li>
+                   <li>
+                   <strong>Versatile</strong> and able to easily adapt to new situations.
+                   </li>
+                   <li>
+                   <strong>Perseverance</strong> acquired through relentless determination and positive attitude.
+                   </li>
+                   <li>
+                   <strong>Effective communication</strong> and team collaboration skills.
+                   </li>
+                   <li>
+                   <strong>Analyzed, organized and produced</strong> numerous in-depth business plans for various types of businesses.
+                   </li>
+
+
+
+                   
+
+
+
+
+                 </ul>
+               </div>
+            </div>
+         </div>
+      </div>
+
+      <div className="row education">
+         <div className="three columns header-col">
             <h1><span>Education</span></h1>
          </div>
 
@@ -56,19 +97,27 @@ class Resume extends Component {
       <div className="row skill">
 
          <div className="three columns header-col">
-            <h1><span>Skills</span></h1>
+            <h1><span>Technologies</span></h1>
          </div>
 
          <div className="nine columns main-col">
-
-            <p>{skillmessage}
-            </p>
-
-				<div className="bars">
-				   <ul className="skills">
-					  {skills}
-					</ul>
-				</div>
+            <li>JavaScript</li>
+            <li>React.js</li>
+            <li>Node.js</li>
+            <li>React-Redux</li>
+            <li>Sagas</li>
+            <li>Material-UI</li>
+            <li>PostgreSQL</li>
+            <li>MongoDB</li>
+            <li>CSS</li>
+            <li>GitHub</li>
+            <li>Git</li>
+            <li>jQuery</li>
+            <li>Express</li>
+            <li>PostGres</li>
+            <li>APIs</li>
+            <li>Passport</li>
+            <li>HTML</li>
 			</div>
       </div>
    </section>

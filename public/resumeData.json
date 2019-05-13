@@ -40,7 +40,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Strength of Weird Skills",
+    "skillmessage":"Known Technologies (list growing)",
     "education":[
       {
         "school":"University of Denver",
@@ -137,16 +137,16 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"One day the AIs are going to look back on us the same way we look at fossil skeletons on the plains of Africa. An upright ape living in dust with crude language and toolds, all set for extinction",
-        "user":"Nathan Bateman"
+        "text":"Kingman is a jovial presence that brings motivation to any team he works on. His preternatural ability to learn on the fly makes him an invaluable asset for any position",
+        "user":"Rowan Smith"
       },
       {
-        "text":"No, no, no, no. You gotta listen to the way people talk",
-        "user":"John Connor"
+        "text":"What started as a weird infatuation he had with me blossomed into something I didn’t see coming. Kingman taught me that it is okay to love myself and that with a little confidence, there is nothing I cannot do.",
+        "user":"Bradley Hennen"
       },
       {
-        "text":"Life is not a malfunction",
-        "user":"Stephanie Speck"
+        "text":"Interested, PM me",
+        "user":"William Howes"
       }
     ]
   }
